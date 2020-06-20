@@ -1,0 +1,15 @@
+## 국회예산편성정보 파헤치기.ReadMe
+# Project name: 2020 국회 예산 편성 정보 파헤치기
+# Project description: 파이썬과 numpy, pandas, matplotlib 
+라이브러리를 활용한 2020 국회 예산 편성 데이터 분석
+# Author name: 경영학과 1785103 이수연 
+# Github username: sooyeonlee812 
+# License name: 이화여자대학교 소프트웨어 연계전공 파이썬과 데이터분석
+# Install command: install pip, numpy, pandas, matplotlib 
+# Usage command or instruction: run start
+# 참고사항: 
+- 세출세목예산편성 데이터와 파이썬 파일이 같은 경로에 있어야함
+- 보다 거시적인 분석을 위해 분석 과정에서 pandas groupby 함수를 
+사용하여 group별 통계값을 출력하는 기능 제공함. 실행과는 무관함
+- 데이터프레임을 막대, 파이차트로 시각화하기 위해 df.plot(kind=pie, bar) 함수 활용. 
+역시 실행과는 무관함
